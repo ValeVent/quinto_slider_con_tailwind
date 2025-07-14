@@ -1,14 +1,14 @@
-Carosello 3D Rotante
+# Carosello 3D Rotante
 
 Questo progetto implementa un carosello di immagini tridimensionale, che ruota automaticamente per mostrare una galleria fotografica dinamica e accattivante. L'animazione e la disposizione delle immagini sono gestite interamente tramite le potenti funzionalità CSS.
 
 
-Descrizione Approfondita del Progetto
+## Descrizione Approfondita del Progetto
 
 Il carosello presenta una serie di immagini disposte in un cerchio virtuale che ruota continuamente. Questo effetto 3D è creato sfruttando le trasformazioni CSS (transform, rotateY, translateZ) e le animazioni con @keyframes. Ogni immagine, quando vi si passa sopra con il mouse, esegue una piccola animazione (translateY e scale) per attirare l'attenzione, dimostrando un'interazione fluida e puramente CSS-based.
 
 
-Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 - HTML5: Struttura di base del carosello e contenitore delle immagini.
 
@@ -20,7 +20,7 @@ Tecnologie Utilizzate
 
   - Animazioni (@keyframes) per il movimento rotatorio continuo del carosello e per l'effetto hover sulle singole immagini.
 
-Funzionalità Principali
+## Funzionalità Principali
 
 - Carosello 3D con Rotazione Automatica: Le immagini sono disposte in un cerchio e ruotano continuamente senza intervento dell'utente.
 
@@ -31,17 +31,17 @@ Funzionalità Principali
 - Design Flessibile: Utilizzo delle classi Tailwind per un layout responsivo e adattabile.
 
 
-Come Avviare il Progetto
+## Come Avviare il Progetto
 
 Segui questi semplici passaggi per visualizzare il progetto localmente:
 
 
-Prerequisiti
+### Prerequisiti
 
 Non sono richiesti particolari prerequisiti oltre a un browser web moderno che supporti le trasformazioni CSS3 (tutti i browser moderni lo fanno) e una connessione internet per caricare Tailwind CSS e Font Awesome tramite CDN.
 
 
-Installazione
+### Installazione
 
 1. Clona il repository (o scarica la cartella del progetto):
 
@@ -54,7 +54,7 @@ Assicurati di sostituire 'carosello-3d-rotante.git' con il nome esatto del tuo r
 cd carosello-3d-rotante
 
 
-Avvio dell'Applicazione
+### Avvio dell'Applicazione
 
 - Assicurati che i file immagine a cui fa riferimento il progetto (URL di Unsplash) siano accessibili via internet, oppure sostituiscili con immagini locali.
 
@@ -69,12 +69,12 @@ http-server .
 L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://localhost:8080).
 
 
-Stato del Progetto
+## Stato del Progetto
 
 Questo progetto è un'eccellente dimostrazione di come creare animazioni 3D complesse e coinvolgenti utilizzando esclusivamente HTML, CSS e Tailwind CSS, evidenziando le capacità avanzate di trasformazione e animazione web.
 
 
-Contatti
+## Contatti
 
 GitHub: https://github.com/ValeVent
 
